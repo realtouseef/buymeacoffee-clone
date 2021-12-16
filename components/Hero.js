@@ -54,7 +54,7 @@ const Hero = () => {
         </article>
         <form className="font-circular">
           <label className="relative">
-            <span className="absolute -top-[4.5px] lg:-top-[13px] left-5 lg:left-7 text-xl lg:text-3xl tracking-wider font-semibold">
+            <span className="absolute -top-[4.5px] lg:-top-[13px] left-5 lg:left-7 text-xl lg:text-3xl font-semibold">
               {" "}
               buymeacoffee.com/
             </span>
