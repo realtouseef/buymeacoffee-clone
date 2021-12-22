@@ -59,7 +59,7 @@ const Hero = () => {
               buymeacoffee.com/
             </span>
             <input
-              className="lg:w-[700px] w-full pl-[220px] lg:pl-[327px] py-3 lg:py-6 border-2 text-xl lg:text-3xl border-gray-200 rounded-full shadow-sm outline-none"
+              className="lg:w-[700px] w-full pl-[11.2em] md:pl-[10.1em] py-3 lg:py-6 border-2 text-lg md:text-xl lg:text-3xl border-gray-200 rounded-full shadow-sm outline-none"
               type="text"
               placeholder="yourname"
             />
